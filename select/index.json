@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "Sweetest girl",
+  "base_artist": "=LOVE",
+  "createdAt": "2025-12-05T00:59:02.612236Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The “Sweetest Girl\"",
+      "artist": "Scritti Politti",
+      "has_synced": false,
+      "path": "select/01_The_“Sweetest_Girl_Scritti_Politti.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The \"Sweetest Girl\"",
+      "artist": "Scritti Politti",
+      "has_synced": false,
+      "path": "select/02_The__Sweetest_Girl_Scritti_Politti.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Sweetest Girl - 2001 Digital Remaster",
+      "artist": "Scritti Politti",
+      "has_synced": false,
+      "path": "select/03_The_Sweetest_Girl_-_2001_Digital_Remaster_Scritti_Politti.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The “Sweetest Girl”",
+      "artist": "Scritti Politti",
+      "has_synced": true,
+      "path": "select/04_The_“Sweetest_Girl”_Scritti_Politti.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Sweetest Girl",
+      "artist": "Madness",
+      "has_synced": false,
+      "path": "select/05_Sweetest_Girl_Madness.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Sweetest Girl (Dollar Bill) [feat. Akon, Lil Wayne & Niia]",
+      "artist": "Wyclef Jean feat. Akon, Lil Wayne & Niia",
+      "has_synced": true,
+      "path": "select/06_Sweetest_Girl_(Dollar_Bill)_[feat._Akon,_Lil_Wayne_&_Niia]_Wyclef_Jean_feat._Akon,_Lil_Wayne_&_Niia.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Sweetest Girl (Dollar Bill) (feat. Akon, Lil' Wayne & Niia)",
+      "artist": "Wyclef Jean",
+      "has_synced": true,
+      "path": "select/07_Sweetest_Girl_(Dollar_Bill)_(feat._Akon,_Lil'_Wayne_&_Niia)_Wyclef_Jean.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Sweetest Girl (Dollar Bill)",
+      "artist": "Wyclef Jean, Akon, Lil Wayne, Niia",
+      "has_synced": true,
+      "path": "select/08_Sweetest_Girl_(Dollar_Bill)_Wyclef_Jean,_Akon,_Lil_Wayne,_Niia.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The Sweetest Girl",
+      "artist": "Scritti Politti",
+      "has_synced": false,
+      "path": "select/09_The_Sweetest_Girl_Scritti_Politti.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Sweetest Girl (Dollar Bill) [Remix]",
+      "artist": "Wyclef Jean",
+      "has_synced": false,
+      "path": "select/10_Sweetest_Girl_(Dollar_Bill)_[Remix]_Wyclef_Jean.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Sweetest Girl (Dollar Bill)",
+      "artist": "Wyclef Jean feat. Akon Lil Wayne and Introducing Niia",
+      "has_synced": true,
+      "path": "select/11_Sweetest_Girl_(Dollar_Bill)_Wyclef_Jean_feat._Akon_Lil_Wayne_and_Introducing_Niia.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Sweetest Girl (Dollar Bill)",
+      "artist": "Wyclef Jean Ft. Akon, Lil Wayne And Introducing Niia",
+      "has_synced": true,
+      "path": "select/12_Sweetest_Girl_(Dollar_Bill)_Wyclef_Jean_Ft._Akon,_Lil_Wayne_And_Introducing_Niia.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Sweetest Girl (Dollar Bill)",
+      "artist": "Boyce Avenue",
+      "has_synced": false,
+      "path": "select/13_Sweetest_Girl_(Dollar_Bill)_Boyce_Avenue.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Sweetest Girl (2008)",
+      "artist": "Boyce Avenue",
+      "has_synced": false,
+      "path": "select/14_Sweetest_Girl_(2008)_Boyce_Avenue.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "The \"Sweetest Girl\"",
+      "artist": "Scritti Politti",
+      "has_synced": true,
+      "path": "select/15_The__Sweetest_Girl_Scritti_Politti.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Sweetest Girl (Dollar Bill) (Feat. Akon, Lil Wayne & Niia)",
+      "artist": "Wyclef Jean",
+      "has_synced": true,
+      "path": "select/16_Sweetest_Girl_(Dollar_Bill)_(Feat._Akon,_Lil_Wayne_&_Niia)_Wyclef_Jean.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Sweetest Girl",
+      "artist": "Madness",
+      "has_synced": true,
+      "path": "select/17_Sweetest_Girl_Madness.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Sweetest Girl (Dollar Bill) (Wyclef Jean Cover)",
+      "artist": "Boyce Avenue",
+      "has_synced": false,
+      "path": "select/18_Sweetest_Girl_(Dollar_Bill)_(Wyclef_Jean_Cover)_Boyce_Avenue.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Sweetest Girl",
+      "artist": "Wyclef Jean feat. Akon & Lil Wayne",
+      "has_synced": true,
+      "path": "select/19_Sweetest_Girl_Wyclef_Jean_feat._Akon_&_Lil_Wayne.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Sweetest Girl  (Ft. Akon, Lil Wayne & Nia)",
+      "artist": "Wyclef Jean",
+      "has_synced": true,
+      "path": "select/20_Sweetest_Girl_(Ft._Akon,_Lil_Wayne_&_Nia)_Wyclef_Jean.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Sweetest girl",
+      "artist": "=LOVE",
+      "has_synced": false,
+      "path": "select/pl_01_Sweetest_girl_=LOVE.txt"
+    }
+  ]
+}
